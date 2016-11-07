@@ -17,5 +17,7 @@ function getData(data) {
 }
 
 function draw() {
+	background(255);
+	text(quote.ChangePercent,20,20);
 
 }
